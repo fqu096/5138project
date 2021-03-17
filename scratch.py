@@ -7,7 +7,7 @@ import numpy as np
 from keras import optimizers
 from keras.preprocessing.text import Tokenizer
 import xml.etree.ElementTree as ET
-
+# test
 
 tree = ET.parse('./COPA-resources/datasets/copa-dev.xml')
 root = tree.getroot()
